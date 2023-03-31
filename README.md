@@ -8,7 +8,7 @@ The DEC report is freely accessible:
 
 ## Examples
 
-**Nuclear capacity in France in 2015:**
+**Installed nuclear capacity in France in 2015:**
 ```
 cym2eleccapa = load_object('energy/cym2eleccapa_export')
 c,y,m = 'France', 2015, 'Nuclear'
@@ -16,7 +16,7 @@ print(f'{m} capacity in {c} in {y}: {cym2eleccapa[c][y][m]:.2f} GW')
 ```
 > Nuclear capacity in France in 2015: 63.13 GW
 
-**Wind production in Spain in 2018:**
+**Wind electricity production in Spain in 2018:**
 ```
 cym2elecprod = load_object('energy/cym2elecprod_export')
 c,y,m = 'Spain', 2018, 'Wind'
