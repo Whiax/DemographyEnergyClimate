@@ -1,4 +1,4 @@
-# DEC : Demography Energy Climate 🌎🔥
+# DEC : Demography Energy Climate 
 
 This repository contains some of the data and models used in DEC.  
 The DEC report is freely accessible: 
