@@ -1,6 +1,6 @@
 # DEC : Demography Energy Climate 
 
-This repository contains some of the data and models used in DEC.  
+This repository contains some data and models used to produce the DEC report.  
 The DEC report is freely accessible: 
 - ➡️➡️ [The DEC Report (pdf)](https://drive.google.com/file/d/1q0wuwa_jcpo6eeyIMtnUm5bYaVvF3j82/)  
 - 🌊 [Hydropower potential](https://hyugen-ai.medium.com/how-i-evaluated-the-worlds-potential-for-hydroelectricity-f97ca7376e20) (1/8)
