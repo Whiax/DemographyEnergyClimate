@@ -4,9 +4,9 @@ This repository contains some data and models used to produce the DEC report.
 The DEC report is freely accessible: 
 - ➡️➡️ [The DEC Report (pdf)](https://drive.google.com/file/d/1q0wuwa_jcpo6eeyIMtnUm5bYaVvF3j82/)  
 - 🌊 [Hydropower potential](https://hyugen-ai.medium.com/how-i-evaluated-the-worlds-potential-for-hydroelectricity-f97ca7376e20) (1/8)
-- ☀️ [Solar potential](https://hyugen-ai.medium.com/how-i-evaluated-the-worlds-potential-for-solar-energy-8bf32225af1b) (2/8)
-- 🌬️ [Wind potential](https://hyugen-ai.medium.com/how-i-evaluated-the-worlds-potential-for-wind-energy-3200ab3b19b9) (3/8)
-- 🏭 [Nuclear potential](https://hyugen-ai.medium.com/how-i-assessed-the-global-potential-of-nuclear-energy-f26ec101b41b) (4/8)
+- ☀️ [Solar power potential](https://hyugen-ai.medium.com/how-i-evaluated-the-worlds-potential-for-solar-energy-8bf32225af1b) (2/8)
+- 🌬️ [Wind power potential](https://hyugen-ai.medium.com/how-i-evaluated-the-worlds-potential-for-wind-energy-3200ab3b19b9) (3/8)
+- 🏭 [Nuclear power potential](https://hyugen-ai.medium.com/how-i-assessed-the-global-potential-of-nuclear-energy-f26ec101b41b) (4/8)
 - 🛢 [How much fossil fuel do we consume each year?](https://hyugen-ai.medium.com/how-much-fossil-fuel-do-we-consume-each-year-5afaa67f43a6) (5/8)
 - 🔥 [Energy, EROI and limits to growth](https://hyugen-ai.medium.com/energy-eroi-and-limits-to-growth-6e8baeed7dc1) (6/8)
 - ☢️ [How many people died because of the Chernobyl disaster?](https://hyugen-ai.medium.com/how-many-people-died-because-of-the-chernobyl-disaster-b01c392736b1) (7/8)
